@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpicGamesNotifications", "EpicGamesNotifications\EpicGamesNotifications.csproj", "{F50EE91A-A860-4E8F-99B5-14B65A3CFAAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F50EE91A-A860-4E8F-99B5-14B65A3CFAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50EE91A-A860-4E8F-99B5-14B65A3CFAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50EE91A-A860-4E8F-99B5-14B65A3CFAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50EE91A-A860-4E8F-99B5-14B65A3CFAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBB4EE87-E210-4064-8FFA-574A45A06018}
+	EndGlobalSection
+EndGlobal
